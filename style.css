@@ -1,0 +1,35 @@
+#text1{
+    font-size: 35px;
+}
+#text2{
+    font-size: 30px;
+}
+.text{
+    background-color:darkgray;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.basliq{
+     width: 250px;
+    height: 90px;
+    border: 3px dashed black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8{
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    border: 2px solid rebeccapurple;
+    background-color: slateblue;
+    font-size: 20px;
+}
+.input{
+    width: 80px;
+    height: 40px;
+}
